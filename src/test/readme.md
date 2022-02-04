@@ -1,0 +1,1 @@
+This project is aimed to practise how to read and write darta to a JSON File using the Simple JSON API

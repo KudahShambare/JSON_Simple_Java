@@ -1,0 +1,22 @@
+[
+    {
+    "name":"Kuda",
+    "age":"21",
+    "location":"Cape Town",
+    "jobTitle":"Javascript Developer"
+    },
+    {
+        "name":"Brian",
+        "age":"31",
+        "location":"Chicago",
+        "jobTitle":"DevOps Engineer"
+        },
+        {
+            "name":"Asanda",
+            "age":"20",
+            "location":"Oslo",
+            "jobTitle":"Electrician"
+            }
+                
+    
+        ]
